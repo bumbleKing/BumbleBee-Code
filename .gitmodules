@@ -1,0 +1,3 @@
+[submodule "static"]
+	path = static
+	url = https://github.com/BumbleKing-dev/BumbleBee-site.git

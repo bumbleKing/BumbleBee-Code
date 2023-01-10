@@ -1,0 +1,7 @@
+{
+    "name": "BumbleBee App",
+    "description": "Node.js BumbleBee instance",
+    "repository": "https://github.com/BumbleKing-dev/BumbleBee-web-app",
+    "logo": "<i class="fa-duotone fa-bee"></i>",
+    "keywords": ["tomp", "BumbleBee"]
+}
