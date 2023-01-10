@@ -2,9 +2,8 @@
                     src="https://raw.githubusercontent.com/titaniumnetwork-dev/ultraviolet-static/main/uv.png" height="200">
 </p>
 
-<h1 align="center">Ultraviolet-Node</h1>
-
-<p align="center">The deployable version of Ultraviolet, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!<br><br></p>
+<h1 align="center">BumbleBee-Node</h1>
+BumbleBee, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!<br><br></p>
 
 ## Quick Deployments
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/titaniumnetwork-dev/Ultraviolet-Node)
@@ -33,12 +32,6 @@
 - HTML, JS, CSS rewriting
 - Parse5
 - Acorn.js
-
-## Used by
-- [Incognito](https://github.com/caracal-js/Incognito), a popular web proxy service with focus on privacy
-- [Holy-Unblocker](https://github.com/titaniumnetwork-dev/Holy-Unblocker), a popular web proxy service focusing on bypassing web filters and more
-- [Hypertabs](titaniumnetwork.org/), a web proxy service using a PWA browser as its frontend
-
 ## Table of Contents
 - [Installation And Setup](#installation-and-setup)
 - [Basic Guide](#basic-guide)
